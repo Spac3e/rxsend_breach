@@ -1,0 +1,115 @@
+# INI library by danx91 version: GMOD 1.0
+
+[SCP062FR]
+max_health = 1500
+run_speed = 100
+base_health = 1500
+base_speed = 100
+max_speed = 200
+
+[SCP542]
+
+[SCP973]
+max_health = 3700
+run_speed = 100
+base_health = 3700
+base_speed = 100
+max_speed = 100
+
+[SCP106]
+max_health = 4500
+run_speed = 100
+base_health = 4500
+base_speed = 100
+max_speed = 100
+
+[SCP682]
+max_health = 6000
+run_speed = 120
+deathloop = true
+deathanimation = 0_Death_64
+base_health = 6000
+base_speed = 120
+max_speed = 120
+
+[SCP035]
+
+[SCP939]
+max_health = 2500
+run_speed = 120
+deathloop = true
+deathanimation = die
+base_health = 2500
+base_speed = 120
+max_speed = 120
+
+[SCP638]
+max_health = 2800
+run_speed = 90
+base_health = 2800
+base_speed = 50
+max_speed = 90
+
+[SCP096]
+
+[SCP912]
+
+[SCP082]
+max_health = 2000
+deathloop = true
+run_speed = 100
+deathanimation = death_loot
+base_health = 2000
+base_speed = 100
+max_speed = 100
+
+[SCP457]
+max_health = 2300
+max_speed = 90
+deathloop = true
+deathanimation = 457_death
+base_health = 2300
+base_speed = 90
+run_speed = 90
+
+[SCP999]
+
+[SCP062DE]
+max_health = 2200
+run_speed = 100
+base_health = 2200
+base_speed = 100
+max_speed = 100
+
+[SCP2012]
+max_health = 2000
+run_speed = 200
+base_health = 2001
+base_speed = 200
+max_speed = 200
+
+[SCP1903]
+
+[SCP811]
+max_health = 2700
+run_speed = 120
+base_health = 2700
+base_speed = 120
+max_speed = 120
+
+[SCP049]
+
+[SCP173]
+max_health = 5400
+run_speed = 250
+base_health = 5400
+base_speed = 250
+max_speed = 250
+
+[_ini]
+char = .
+version = GMOD 1.0
+
+[_GLOBAL]
+
+[SCP076]

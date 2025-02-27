@@ -1,0 +1,7 @@
+; Add gimp says in this file, one per line.
+; Any line starting with a ';' is a comment
+我是烧货
+我是鸭子的狗
+我不是人
+我是傻软该隐‘
+嘻嘻嘻嘻

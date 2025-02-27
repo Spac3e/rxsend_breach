@@ -1,0 +1,209 @@
+"STEAM_0:0:899220990"	
+{
+	"name"	"oxoQAQ"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"user"
+}
+"STEAM_0:0:507011539"	
+{
+	"allow"	
+	{
+	}
+	"name"	"SINKING_FOX"
+	"deny"	
+	{
+	}
+	"group"	"高管"
+}
+"STEAM_0:0:427377252"	
+{
+	"allow"	
+	{
+	}
+	"name"	"DUCK"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:21632615"	
+{
+	"name"	"Project-pQ"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:441842017"	
+{
+	"allow"	
+	{
+	}
+	"name"	"𝓐𝔃𝓾𝓴𝓾𝓶𝓪."
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:186691250"	
+{
+	"name"	"Magi"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"主管"
+}
+"STEAM_0:1:570908613"	
+{
+	"allow"	
+	{
+	}
+	"name"	"叶子"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:111695979"	
+{
+	"allow"	
+	{
+	}
+	"name"	"东方食神幽幽子"
+	"deny"	
+	{
+	}
+	"group"	"高管"
+}
+"STEAM_0:0:454531613"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Shaky"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:533876141"	
+{
+	"name"	"音理"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"主管"
+}
+"STEAM_0:0:38555087"	
+{
+	"name"	"BlackAN"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:619230239"	
+{
+	"allow"	
+	{
+	}
+	"name"	"MoQing_Cyank"
+	"deny"	
+	{
+	}
+	"group"	"主管"
+}
+"STEAM_0:0:574587994"	
+{
+	"name"	"Clementina"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"高管"
+}
+"STEAM_0:1:431182368"	
+{
+	"name"	"Mio"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:240925085"	
+{
+	"name"	"该 隐"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"主管"
+}
+"STEAM_0:1:562533153"	
+{
+	"allow"	
+	{
+	}
+	"name"	"白藏"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:0:95881772"	
+{
+	"allow"	
+	{
+	}
+	"name"	"セイウンスカイ"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:533244245"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"SkywardDive"
+	"group"	"admin"
+}
+"STEAM_0:1:512214039"	
+{
+	"name"	"Dicrment"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"高管"
+}
