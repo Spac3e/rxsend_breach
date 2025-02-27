@@ -1,11 +1,3 @@
-DeriveGamemode("sandbox")
-function ulx.rx_enablemenu() end
-
-local enablemenu = ulx.command("开发者菜单", "ulx rx_enablemenu", ulx.rx_enablemenu, "!rx_enablemenu")
-enablemenu:defaultAccess(ULib.ACCESS_SUPERADMIN)
-local enablecmenu = ulx.command("开发者菜单", "ulx rx_enablecontextmenu", ulx.rx_enablemenu, "!rx_enablecmenu")
-enablecmenu:defaultAccess(ULib.ACCESS_SUPERADMIN)
-
 function GM:PlayerNoClip()
     return false
 end
